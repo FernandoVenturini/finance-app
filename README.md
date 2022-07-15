@@ -1,4 +1,4 @@
 # finance-app
 Personal project - Finance app
 
-Link website: expensecontrtol.netlify.app
+Link website: https://expensecontrtol.netlify.app/
